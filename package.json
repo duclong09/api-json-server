@@ -1,0 +1,22 @@
+{
+  "name": "create-json-sever",
+  "version": "1.0.0",
+  "description": "use json-server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "Duc Long",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

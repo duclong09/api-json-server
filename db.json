@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Honda",
+      "createdAt": 123123123,
+      "updatedAt": 123324212
+    },
+    {
+      "name": "Điện Thoại",
+      "createdAt": 1647774813874,
+      "updatedAt": 1647774813874,
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphonex",
+      "createdAt": 123123135,
+      "updatedAt": 125564566,
+      "categoryId": 1,
+      "salePrice": 20000000
+    },
+    {
+      "id": 2,
+      "name": "Iphone 13",
+      "createdAt": 123123135,
+      "updatedAt": 125564566,
+      "categoryId": 1,
+      "salePrice": 40000000
+    }
+  ],
+  "profile": {
+    "name": "Duc Long"
+  }
+}
